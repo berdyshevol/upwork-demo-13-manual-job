@@ -1,0 +1,5 @@
+{
+  "total": 9,
+  "passing": 9,
+  "spec_files": ["tests/acceptance.spec.ts"]
+}
