@@ -1,5 +1,10 @@
 # AI Helpdesk Guidance Studio (demo)
 
+## Live demo
+
+https://upwork-demo-13-manual-rn5o8i5bv-berdyshevols-projects.vercel.app
+
+
 A small Next.js prototype that shows raw ecommerce support tickets being
 auto-classified and answered by an AI agent using editable, versioned
 guidance rules.
