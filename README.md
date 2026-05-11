@@ -2,7 +2,7 @@
 
 ## Live demo
 
-https://upwork-demo-13-manual-rn5o8i5bv-berdyshevols-projects.vercel.app
+https://upwork-demo-13-manual-job.vercel.app
 
 
 A small Next.js prototype that shows raw ecommerce support tickets being
